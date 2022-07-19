@@ -16,8 +16,8 @@ After getting the key Insights from the data, created a presentation with Social
 
 
 #### Tools Used:
-Microsoft Excel - data analysis
-PowerQuery - merge & pivot + data visualization.
-Microsoft Powerpoint: Data Presentation.
+1. Microsoft Excel - data analysis
+2. PowerQuery - merge & pivot + data visualization.
+3. Microsoft Powerpoint: Data Presentation.
 
 
