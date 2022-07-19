@@ -8,7 +8,7 @@ Task was given to analyze the dataset and draw some conclusions to increase the 
 More Work on the Social Buzz issue solving, problem understanding and hypothesis generation.
 
 #### Task 2: Data Analysis
-This task was more of analyitcs base and performed the univariate and bivariate analysis along with drawing some useful insights from the data.
+This task was more of analytics based and performed the univariate and bivariate analysis along with drawing some useful insights from the data.
 Performed task on Microsoft Excel, for filtering to Visualization.
 
 #### Task 3: Data Presentation:
@@ -18,6 +18,6 @@ After getting the key Insights from the data, created a presentation with Social
 #### Tools Used:
 Microsoft Excel - data analysis
 PowerQuery - merge & pivot + data visualization.
-
+Microsoft Powerpoint: Data Presentation.
 
 
