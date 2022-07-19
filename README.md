@@ -5,7 +5,7 @@
 
 Task Desciption:
 Social Buzz is a fast growing technology & content creator unicorn  that need to adapt quickly to it's global scale. To cope up with the fast growing client problem of social buzz, they need to built the stratergy to overcome these problems & to get to know their clients in more detail.
-Task was given to analyze the dataset and draw some conclusions to increase the marketting of Social Buzz and improving the clients to their website/platform.
+Task was given to analyze the dataset and draw some conclusions to increase the marketting of Social Buzz and improving their clients experience to their website/platform.
 
 #### Task 1: Understanding the Problem of the client & demanding for the data
 More Work on the Social Buzz issue solving, problem understanding and hypothesis generation.
