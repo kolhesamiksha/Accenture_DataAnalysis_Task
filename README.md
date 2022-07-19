@@ -1,5 +1,8 @@
 # Accenture_DataAnalysis_Task
 
+![image](https://user-images.githubusercontent.com/73512374/179814754-e08725d8-13c1-4826-b79e-a9b551e1660c.png)
+
+
 Task Desciption:
 Social Buzz is a fast growing technology & content creator unicorn  that need to adapt quickly to it's global scale. To cope up with the fast growing client problem of social buzz, they need to built the stratergy to overcome these problems & to get to know their clients in more detail.
 Task was given to analyze the dataset and draw some conclusions to increase the marketting of Social Buzz and improving the clients to their website/platform.
