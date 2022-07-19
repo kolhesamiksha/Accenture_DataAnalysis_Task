@@ -8,11 +8,12 @@ Social Buzz is a fast growing technology & content creator unicorn  that need to
 Task was given to analyze the dataset and draw some conclusions to increase the marketting of Social Buzz and improving their clients experience to their website/platform.
 
 #### Task 1: Understanding the Problem of the client & demanding for the data
-More Work on the Social Buzz issue solving, problem understanding and hypothesis generation.
+More Work was on the Social Buzz demand analysis, problem understanding and hypothesis generation.
 
 #### Task 2: Data Analysis
 This task was more of analytics based and performed the univariate and bivariate analysis along with drawing some useful insights from the data.
 Performed task on Microsoft Excel, for filtering to Visualization.
+![image](https://user-images.githubusercontent.com/73512374/179815544-b06191a4-6973-4853-83a6-eeb26fc9d005.png)
 
 #### Task 3: Data Presentation:
 After getting the key Insights from the data, created a presentation with Social Buzz for summarizing the details of the issue that will help them to built their data science stratergy in future.
